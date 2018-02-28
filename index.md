@@ -8,10 +8,29 @@ Taikun has a lot of hobbies. He is both a cat and a dog person, and he loves to 
 # Education
 > Taikun is currently a master student in Computer Science.
 
-## M.S. `expect 2018`
-**M.S. in Computer Science**  
-New York University, Courant Institute of Mathematical Sciences
+- ## M.S. `expected 2018`
+  **M.S. in Computer Science**  
+  New York University, Courant Institute of Mathematical Sciences
 
-## B.S. `2014`
-**B.S. in Computer and Information Science**  
-University of Oregon, Computer Science Department
+- ## B.S. `2014`
+  **B.S. in Computer and Information Science**  
+  University of Oregon, Computer Science Department
+
+# Career
+> Taikun has been working as a software engineer since 2013.
+
+- ## [PayPal](https://www.paypal.com)
+
+- ## [AIR](https://www.air.org/)
+
+- ## [Amlogic Inc.](http://www.amlogic.com/)
+
+# Work Experience at School
+
+- ## [NYU STIT](https://www.nyu.edu)
+
+- ## [UO Computer Science Department](https://cs.uoregon.edu/)
+
+# Hobbies
+
+# Contact Info

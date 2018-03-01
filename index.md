@@ -3,7 +3,7 @@ Taikun is a full-time master student at Courant Institute of Mathematical Scienc
 
 He was born and raised in Shanghai until he was 18. He has then traveled and lived in multiple cities in China and USA.
 
-Taikun has a lot of hobbies. He is both a cat and a dog person, and he loves to make friends with beings from every where.
+Taikun has a lot of hobbies. He is both a cat and a dog person, and he loves to make friends with people from every where.
 
 # Education
 > Taikun is currently a master student in Computer Science.

@@ -1,26 +1,24 @@
 # Intro
-Taikun is a full-time master student at Courant Institute of Mathematical Sciences of New York University. He is studying computer science and is mostly interested in Machine Learning and Computer graphics. At the same time, he is an application developer.
+Taikun is currently a software engineer at PayPal.
 
 He was born and raised in Shanghai until he was 18. He has then traveled and lived in multiple cities in China and USA.
 
 Taikun has a lot of hobbies. He is both a cat and a dog person, and he loves to make friends with people from every where.
 
 # Education
-> Taikun is currently a master student in Computer Science.
 
-- ## M.S. `expected 2018`
+- ## M.S. `May 2018`
   **M.S. in Computer Science**  
   New York University, Courant Institute of Mathematical Sciences
 
-- ## B.S. `2014`
+- ## B.S. `Dec. 2014`
   **B.S. in Computer and Information Science**  
   University of Oregon, Computer Science Department
 
 # Career
-> Taikun has been working as a software engineer since 2013.
 
 - ## [PayPal](https://www.paypal.com)
-  Taikun joined PayPal as a software engineering intern in Summer 2017, and he will be rejoin this company after graduation in 2018.
+  Taikun joined PayPal as a software engineering intern in Summer 2017, and he has rejoined the same team at PayPal as a full-time software engineer in 2018.
 
 - ## [AIR](https://www.air.org/)
   Taikun worked at American Institutes for Research in year 2015 as a Java developer.
@@ -38,10 +36,7 @@ Taikun has a lot of hobbies. He is both a cat and a dog person, and he loves to 
 
 # Hobbies
 ```
-Playing guitar and singing
-coding
-gaming
-watching movies
-roadtripping
-enjoying food from different cultures
+Guitar
+WoW
+Roadtrips
 ```

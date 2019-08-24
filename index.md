@@ -1,9 +1,6 @@
 # Intro
-Taikun is currently a software engineer at PayPal.
-
-He was born and raised in Shanghai until he was 18. He has then traveled and lived in multiple cities in China and USA.
-
-Taikun has a lot of hobbies. He is both a cat and a dog person, and he loves to make friends with people from every where.
+- Currently working as a software engineer at Google.
+- Love cats and dogs.
 
 # Education
 
@@ -16,6 +13,8 @@ Taikun has a lot of hobbies. He is both a cat and a dog person, and he loves to 
   University of Oregon, Computer Science Department
 
 # Career
+- ## [Google](https://www.google.com)
+  Taikun Joined Google as a software engineer in Jul. 2019.
 
 - ## [PayPal](https://www.paypal.com)
   Taikun joined PayPal as a software engineering intern in Summer 2017, and he has rejoined the same team at PayPal as a full-time software engineer in 2018.

@@ -13,7 +13,7 @@
   University of Oregon, Computer Science Department
 
 # Career
-- ## [Google](https://www.google.com)
+- ## [Google](https://www.google.org)
   Taikun Joined Google as a software engineer in Jul. 2019.
 
 - ## [PayPal](https://www.paypal.com)
